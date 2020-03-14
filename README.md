@@ -2,4 +2,4 @@
 Basic Rain in a Java GUI.
 
 
-<img src="Image/Screen.gif">
+<img src="Image/Screen.gif" width="900" height="300">
